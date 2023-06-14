@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6083],{731:t=>{t.exports=JSON.parse('{"title":"\ud83d\ude80 Getting Started","description":"A small description for this module","slug":"/category/-getting-started","permalink":"/category/-getting-started","navigation":{"next":{"title":"\ud83d\udc40 Introducing Relavate","permalink":"/"}}}')}}]);
